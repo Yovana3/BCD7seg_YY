@@ -11,9 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 4 input (x, y, z, w) , it works with 7 outputs with segments a,b,c,d,e,f,g
 
 ## How to test
-
-Explain how to use your project
+seleciona un numero binario de la salida tendras su equivalente a 7 segementos
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display 7 segments
